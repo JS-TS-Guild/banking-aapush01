@@ -6,7 +6,8 @@
   "scripts": {
     "test": "vitest",
     "test-run-basic": "vitest run simple.test.ts",
-    "test-run-real": "vitest run real.test.ts"
+    "test-run-real": "vitest run real.test.ts",
+    "test-run-final": "vitest run test"
   },
   "type": "module",
   "keywords": [],
